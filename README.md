@@ -23,8 +23,7 @@ This independent self-practice project focuses on monitoring and visualizing the
 - **White:** No Significant Change
 
 ## Project Output
-![Sundarbans NDVI Change Map](sundarbans_ndvi_map.png)
-
+![Sundarbans NDVI Change Map](sundarbans_ndvi_map.jpeg)
 ## Technical Considerations & Limitations
 - **Data Constraints:** Certain raster texture smoothing artifacts and tile-mosaic blending limits are present due to the integration of multiple raw satellite scenes. These represent standard satellite data alignment challenges openly noted for educational documentation.
 
